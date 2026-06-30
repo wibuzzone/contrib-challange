@@ -26,9 +26,9 @@ Acara ini terbuka untuk semua pengembang yang ingin menampilkan karya, berbagi p
 ---
 
 ## 📅 Waktu Pelaksanaan
-- Mulai: [Isi tanggal mulai, contoh: 1 Juli 2026]
-- Berakhir: [Isi tanggal selesai, contoh: 31 Juli 2026]
-- Pengumuman pemenang: [Isi tanggal pengumuman]
+- Mulai: [21 Agustus 2026]
+- Berakhir: [23 Agustus 2026]
+- Pengumuman pemenang: [27 Agustus 2026]
 
 ---
 
