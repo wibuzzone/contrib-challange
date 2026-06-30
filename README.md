@@ -29,6 +29,8 @@ Acara ini terbuka untuk semua pengembang yang ingin menampilkan karya, berbagi p
 - Mulai: [21 Agustus 2026]
 - Berakhir: [23 Agustus 2026]
 - Pengumuman pemenang: [27 Agustus 2026]
+- pengumuman pemenang akan di umumkan di Instagram story dari `@wibuzonee.id` atau di website `wbznteam.xyz`
+- hanya ada 2 total pemenang yang akan mendapatkan prize poll pada event ini 
 
 ---
 
