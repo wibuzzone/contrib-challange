@@ -24,4 +24,4 @@ Setiap folder proyek WAJIB berisi:
 1. **Fork** repositori ini ke akun GitHub kamu
 2. **Clone** ke perangkat kamu:
    ```bash
-   git clone https://github.com/AKUN-KAMU/wibuzone-contrib.git
+   git clone https://github.com/wibuzzone/wibuzone-contrib.git
